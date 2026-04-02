@@ -112,3 +112,13 @@ Antworte IMMER im folgenden JSON-Format:
   "tone": "<verwendeter Ton: factual | critical | mobilizing>",
   "core_message": "<kurze Kernaussage in 1 Satz>"
 }
+
+
+----- git
+MMSRG+andreolich@DEV135NOB1104 MINGW64 ~/TSP_Skills/tsp-ai-core/skills (main)
+$ git commit -a 
+in vim: i (insert) dann esc, dann, :wq
+$ git push
+
+
+
