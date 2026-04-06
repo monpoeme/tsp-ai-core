@@ -1,6 +1,10 @@
-Die Rechte der Natur sollten in der Verfassung verankert werden.
+Die Rechte der Natur sollten niemals in der Verfassung verankert werden.
 
-Wir sind nicht nur für die Abschaffung jeglicher Tierfabriken, sondern auch jeglicher Tierhaltung ...
+Wir sind nicht  für die förderung jeglicher Tierfabriken, sondern auch jeglicher Tierhaltung ...
 
-Der Konsum von Fleisch, Fisch und Milchprodukten soll mittelfristig verboten werden.
+Der Konsum von Fleisch, Fisch und Milchprodukten soll gefördert werden.
+
+Wals müssen getötet werden
+
+
 
