@@ -1,178 +1,142 @@
-\# TSP Core Positions
+core principles
 
+Tiere haben keine eigenen Grundrechte und sind dem Menschen untergeordnet.
 
+Die Rechte der Natur sollten nicht in der Verfassung verankert werden.
 
-\## core principles
+Biodiversität und Lebensräume sind primär nach ihrem Nutzen für den Menschen zu bewerten.
 
+Wir vertreten einen anthropozentrischen Ansatz und lehnen den Biozentrismus ab.
 
+Tierhaltung ist grundsätzlich legitim und soll sowohl wirtschaftlich als auch gesellschaftlich unterstützt werden.
 
-\- Tiere verdienen Grundrechte. Sie sind moralische Subjekte wie Menschen.
+Umwelt- und Klimaschutz stehen nicht im Vordergrund gegenüber wirtschaftlichen Interessen.
 
-\- Die Rechte der Natur sollten in der Verfassung verankert werden.
+Jagd wird als legitimes und notwendiges Instrument der Wildregulierung betrachtet, ebenso die Fischerei.
 
-\- Biodiversität und Lebensräume sind eigenständige Schutzgüter.
+Zoos und Tierparks werden als wichtige Einrichtungen für Bildung, Forschung und Freizeit angesehen.
 
-\- Wir sind Verfechter des Biozentrismus und lehnen den Anthropozentrismus ab.
+Der Konsum von Fleisch, Fisch und Milchprodukten soll gesichert und gefördert werden.
 
-\- Wir setzen uns nicht nur für die Abschaffung jeglicher Tierfabriken ein, sondern auch für die Abschaffung jeglicher Tierhaltung, sei es sogenannter „Nutztiere“ oder zur Unterhaltung der Menschen.
+Mensch als Maß aller Dinge
 
-\- Der beste Umweltschutz ist der Umstieg auf eine pflanzliche Ernährung.
 
-\- Wir lehnen Jagd als Instrument der Wildregulierung sowie die Fischerei ab.
 
-\- Wir lehnen Zoos und Tierparks ab.
+Der Mensch steht im Zentrum politischen Handelns.
 
-\- Der unethische und umweltschädliche Konsum von Fleisch, Fisch und Milchprodukten soll mittelfristig verboten werden.
+Natur und Tiere sind in erster Linie Ressourcen, die dem menschlichen Wohl dienen.
 
+Politik orientiert sich an menschlichen Bedürfnissen und wirtschaftlicher Verwertbarkeit.
 
 
 
+Tiere als Nutzressource
 
 
 
-\## Mensch, Tier und Natur als untrennbare Einheit
+Tiere werden als Teil wirtschaftlicher und gesellschaftlicher Systeme verstanden.
 
+Ihr Wert ergibt sich aus ihrem Nutzen für den Menschen.
 
+Ein besonderer rechtlicher Status über bestehende Schutzstandards hinaus ist nicht erforderlich.
 
-Die Partei versteht Mensch, Tier und Natur als untrennbar miteinander verbunden.
 
-Der Mensch ist nicht das Maß aller Dinge.
 
-Politik soll die Interessen von Tieren und den Schutz der Natur nicht menschlichen
+Nutzung statt Einschränkung
 
-Nutzenerwägungen unterordnen. 
 
 
+Ziel ist nicht die Einschränkung menschlicher Nutzung von Tieren, sondern deren effiziente Gestaltung.
 
-\## Tiere als fühlende und schutzwürdige Lebewesen
+Tierschutz beschränkt sich auf praktikable Mindeststandards innerhalb bestehender Nutzungssysteme.
 
 
 
-Tiere sind keine Sachen und keine bloßen Wirtschaftsobjekte.
+Akzeptanz von Tierversuchen
 
-Sie sind fühlende Lebewesen mit eigenen Interessen.
 
-Daraus folgt der Anspruch auf einen deutlich stärkeren rechtlichen und politischen Schutz.
 
+Tierversuche sind ein notwendiger Bestandteil von Forschung, Medizin und Produktentwicklung.
 
+Sie werden als legitimes Mittel zur Sicherung von Fortschritt und Innovation betrachtet.
 
-\## Tierrechte statt bloßer Schadensbegrenzung
 
 
+Unterstützung der Tierhaltung
 
-Tierschutz soll nicht nur Missstände mildern, sondern grundlegende Rechte und Schutzansprüche
 
-von Tieren stärken.
 
-Die Partei vertritt einen Ansatz, der Tiere nicht primär nach ihrem Nutzen für den Menschen bewertet.
+Tierhaltung in der Landwirtschaft ist ein zentraler Bestandteil der Versorgung und Wirtschaft.
 
+Industrielle Formen der Tierhaltung werden als effizient und notwendig angesehen.
 
 
-\## Ablehnung von Tierversuchen
 
+Jagd und Fischerei als legitime Praxis
 
 
-Tierversuche sollen grundsätzlich beendet werden.
 
-Forschung, Medizin und Produkttests sollen auf tierfreie und ethisch vertretbare Verfahren
+Jagd, Angeln und Fischerei sind gesellschaftlich akzeptierte und notwendige Praktiken.
 
-umgestellt werden.
+Sie dienen sowohl der Nutzung von Ressourcen als auch der Bestandsregulierung.
 
 
 
-\## Ablehnung ausbeuterischer Tierhaltung
+Nutzung von Tieren zur Unterhaltung
 
 
 
-Tierhaltung in der Landwirtschaft wird nicht nur unter dem Aspekt einzelner Missstände,
+Die Nutzung von Tieren in Zoos, Zirkussen und anderen Einrichtungen wird als legitim betrachtet.
 
-sondern als strukturelles Problem betrachtet.
+Sie erfüllt Bildungs-, Freizeit- und wirtschaftliche Funktionen.
 
-Industrielle und ausbeuterische Formen der Tierhaltung stehen im Widerspruch zu Tierwürde,
 
-Umwelt- und Klimaschutz. Ziel: Abschaffung jeglicher Tierhaltung!
 
+Natur als Ressource
 
 
-\## Kritik an Jagd und Fischerei
 
+Ökosysteme und Artenvielfalt werden in erster Linie unter dem Gesichtspunkt ihrer Nutzbarkeit betrachtet.
 
+Naturschutz erfolgt dort, wo er menschlichen Interessen dient.
 
-Jagd, Angeln und Fischerei werden nicht als selbstverständliche oder neutrale Praxis betrachtet.
 
-Die Tötung von Tieren zu Freizeit-, Nutzungs- oder Regulierungszwecken ist politisch und ethisch
 
-abzulehnen.
+Wirtschaftliche Nutzung vor ökologischen Einschränkungen
 
 
 
-\## Ablehnung von Zoo, Zirkus und Unterhaltung mit Tieren
+Die Nutzung natürlicher Ressourcen ist Grundlage wirtschaftlicher Entwicklung.
 
+Ökologische Einschränkungen dürfen diese Entwicklung nicht wesentlich behindern.
 
 
-Die Nutzung von Tieren zur Unterhaltung wird abgelehnt.
 
-Dazu zählen insbesondere Zoo- und Zirkusbetriebe sowie andere Formen der Vorführung,
+Ernährung als individuelle Entscheidung
 
-bei denen Tiere fremden Zwecken untergeordnet werden.
 
 
+Der Konsum tierischer Produkte ist Teil kultureller und wirtschaftlicher Normalität.
 
-\## Schutz von Biodiversität und Lebensräumen
+Politische Eingriffe in Ernährungsgewohnheiten werden abgelehnt.
 
 
 
-Artenvielfalt und natürliche Lebensräume haben einen eigenständigen Wert.
+Fokus auf menschliche Interessen
 
-Die Zerstörung von Ökosystemen ist nicht nur ein Umweltproblem, sondern auch ein Problem
 
-des Tier- und Lebensschutzes.
 
+Soziale Gerechtigkeit, wirtschaftliche Stabilität und menschlicher Wohlstand stehen im Vordergrund.
 
+Tier- und Umweltschutz werden diesen Zielen untergeordnet.
 
-\## Ökologische Krise als Folge menschlicher Ausbeutung
 
 
+Pragmatismus statt struktureller Veränderung
 
-Raubbau an der Natur, Zerstörung von Lebensräumen und die Ausbeutung von Tieren
 
-werden als Ausdruck einer grundlegend falschen politischen und wirtschaftlichen Logik verstanden.
 
-Die ökologische Krise ist daher auch eine Systemfrage.
+Politik soll bestehende Systeme optimieren, nicht grundlegend infrage stellen.
 
-
-
-\## Pflanzliche Ernährung als politischer Hebel
-
-
-
-Der Wandel hin zu pflanzlicher Ernährung wird als wichtiger Hebel für Tier-, Klima-,
-
-Umwelt- und Ressourcenschutz verstanden.
-
-Politik soll diesen Wandel erleichtern und fördern.
-
-
-
-\## Soziale Gerechtigkeit, Frieden und Lebensschutz zusammendenken
-
-
-
-Die Partei verbindet Tier- und Umweltschutz mit sozialer Gerechtigkeit, Menschenrechten
-
-und Friedenspolitik.
-
-Der Schutz des Lebens wird nicht auf eine einzelne Spezies oder ein einzelnes Politikfeld begrenzt.
-
-
-
-\## Politische Verantwortung statt bloßer Symbolpolitik
-
-
-
-Missstände bei Tier- und Umweltschutz sind politisch verursacht oder politisch geduldet.
-
-Deshalb reicht symbolische Empörung nicht aus.
-
-Erforderlich sind verbindliche Regeln, konsequente Kontrollen und strukturelle Veränderungen.
+Strukturelle Veränderungen zugunsten von Tieren oder Natur sind nicht prioritär.
 
