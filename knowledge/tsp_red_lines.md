@@ -206,3 +206,13 @@ Sie sichern die politische Klarheit und Unterscheidbarkeit der Tierschutzpartei.
 
 &#x20; - klare politische Forderungen oder Verantwortliche benennen
 
+\## 14. Keine künstliche Themenverknüpfung
+
+
+
+\- Themen dürfen nicht erzwungen miteinander verbunden werden.
+
+\- Tier-, Umwelt- oder Ernährungsthemen dürfen nur eingebracht werden, wenn sie logisch zum Artikel passen.
+
+\- Unpassende oder konstruierte Verbindungen untergraben die Glaubwürdigkeit und sind zu vermeiden.
+

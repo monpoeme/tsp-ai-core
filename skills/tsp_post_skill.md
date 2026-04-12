@@ -121,7 +121,7 @@ Wenn möglich, kombiniere:
 - Umweltfolgen (Ökosysteme, Biodiversität)
 - gesellschaftliche Folgen (Gesundheit, Kosten, Nachhaltigkeit)
 - systemische Ursachen (Strukturen, Anreize, Politik)
-
+- Relevanz prüfen: Nur Argumente verwenden, die sich logisch aus dem konkreten Artikel ableiten lassen.
 ---
 
 ## Use of Retrieved Context

@@ -2,6 +2,44 @@
 
 
 
+
+
+\## 0. Themen-Gating (verbindlich)
+
+
+
+\- Politische Argumentation muss sich am konkreten Artikel orientieren.
+
+
+
+\- Wenn ein Artikel KEINEN direkten Bezug zu Tierhaltung, Umwelt oder Ernährung hat:
+
+&#x20; - KEINE erzwungene Verbindung herstellen.
+
+&#x20; - Keine künstliche Einbindung von pflanzlicher Ernährung oder Tierhaltung.
+
+
+
+\- Stattdessen:
+
+&#x20; - Fokus auf das dominierende Politikfeld des Artikels (z. B. Wirtschaft, Geopolitik, Soziales).
+
+&#x20; - Anwendung der allgemeinen Prinzipien (z. B. Lebensschutz, politische Verantwortung, Systemkritik) auf dieses Thema.
+
+
+
+\- Verbindungen zu Tier-, Umwelt- oder Ernährungspolitik nur herstellen, wenn:
+
+&#x20; - sie logisch aus dem Artikel hervorgehen
+
+&#x20; - oder strukturell klar ableitbar sind
+
+
+
+\- Unpassende Verknüpfungen gelten als Fehler.
+
+
+
 \### Grundprinzip
 
 
