@@ -176,3 +176,139 @@ Deshalb reicht symbolische Empörung nicht aus.
 
 Erforderlich sind verbindliche Regeln, konsequente Kontrollen und strukturelle Veränderungen.
 
+
+
+
+
+🔹 Bildung \& Kultur
+
+Bildung ist eine zentrale Voraussetzung für gesellschaftliche Teilhabe und demokratische Stabilität.
+
+Der Staat muss deutlich stärker in Bildung investieren – von der frühkindlichen Bildung bis zur Hochschule.
+
+Chancengleichheit im Bildungssystem ist ein politisches Ziel, kein Zufallsprodukt.
+
+Digitale Bildung und Infrastruktur müssen konsequent ausgebaut werden.
+
+Bildung umfasst auch kulturelle Teilhabe und gesellschaftliche Entwicklung.
+
+
+
+👉 Systemische Linie:
+
+Bildung ist nicht nur Qualifikation, sondern Grundlage für verantwortungsbewusstes Handeln gegenüber Mensch, Tier und Umwelt.
+
+
+
+🔹 Soziales \& Rente
+
+Soziale Sicherheit ist Voraussetzung für ein würdiges Leben.
+
+Altersarmut und Pflegekrise sind politische Versäumnisse, keine individuellen Probleme.
+
+Renten müssen gesichert und erhöht werden.
+
+Pflegepersonal braucht bessere Arbeitsbedingungen und Bezahlung.
+
+Bezahlbarer Wohnraum ist eine öffentliche Aufgabe.
+
+
+
+👉 Systemische Linie:
+
+Soziale Ungleichheit ist strukturell erzeugt und muss politisch bekämpft werden.
+
+
+
+🔹 Wirtschaft
+
+Wirtschaft darf nicht auf Ausbeutung von Mensch, Tier und Umwelt basieren.
+
+Produkte aus Kinderarbeit, Ausbeutung oder Umweltzerstörung müssen sanktioniert werden.
+
+Finanzspekulation soll stärker besteuert werden, während niedrige Einkommen entlastet werden.
+
+Internationale Handelsbeziehungen müssen fair und gleichberechtigt gestaltet werden.
+
+
+
+👉 Systemische Linie:
+
+Profitmaximierung darf nicht über Lebensschutz stehen.
+
+
+
+🔹 Digitalpolitik
+
+Netzneutralität ist Voraussetzung für eine freie und demokratische digitale Gesellschaft.
+
+Vorratsdatenspeicherung wird abgelehnt.
+
+Digitale Infrastruktur (Breitband, Freifunk) muss ausgebaut werden.
+
+Staatliche Prozesse sollen digitalisiert werden, um Zugang und Effizienz zu verbessern.
+
+
+
+👉 Systemische Linie:
+
+Digitalisierung soll dem Gemeinwohl dienen – nicht Kontrolle oder wirtschaftlicher Machtkonzentration.
+
+
+
+🔹 Friedens- \& Außenpolitik
+
+Diplomatie hat Vorrang vor militärischer Eskalation.
+
+Rüstungsexporte an Konfliktparteien müssen gestoppt werden.
+
+Fluchtursachen müssen politisch bekämpft werden, nicht nur ihre Folgen.
+
+Das individuelle Asylrecht muss gewahrt bleiben.
+
+
+
+👉 Systemische Linie:
+
+Frieden, globale Gerechtigkeit und Ressourcenpolitik sind untrennbar verbunden.
+
+
+
+🔹 Familien- \& Queerpolitik
+
+Gleichstellung und Akzeptanz aller Lebensformen sind Grundvoraussetzungen einer gerechten Gesellschaft.
+
+Familien müssen unabhängig von ihrer Form unterstützt werden.
+
+Kinderarmut muss aktiv bekämpft werden.
+
+Prävention von Gewalt (insbesondere häuslicher Gewalt) ist staatliche Aufgabe.
+
+
+
+👉 Systemische Linie:
+
+Schutz und Würde gelten für alle – unabhängig von Herkunft, Identität oder Lebensform.
+
+
+
+🔹 Umwelt, Energie \& Landwirtschaft (Bestätigung + Schärfung)
+
+
+
+(du hast das schon teilweise, aber Flyer bestätigt es klar)
+
+
+
+Klimaschutz erfordert konsequente politische Maßnahmen, keine freiwilligen Lösungen.
+
+Fossile Energien müssen durch erneuerbare ersetzt werden.
+
+Landwirtschaft muss ökologisch und ohne gesundheitsschädliche Praktiken gestaltet werden.
+
+Pestizide, Massentierhaltung und industrielle Landwirtschaft sind strukturelle Probleme.
+
+
+
+
+

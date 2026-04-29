@@ -50,6 +50,18 @@ ethischen, ökologischen, sozialen und systemischen Zusammenhängen eingeordnet.
 
 
 
+Politik muss die Interessen derjenigen vertreten, die keine starke Lobby haben:
+
+Tiere
+
+zukünftige Generationen
+
+sozial benachteiligte Menschen
+
+Lebensschutz ist das verbindende Prinzip über alle Politikfelder hinweg.
+
+
+
 \---
 
 
