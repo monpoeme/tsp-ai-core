@@ -322,6 +322,64 @@ Erforderlich sind verbindliche Regeln, konsequente Kontrollen und strukturelle V
 
 
 
+
+
+
+
+\## Anwendungsregel: Reform vs. Systemproblem
+
+
+
+Wenn ein Artikel bestehende Missstände, Schutzlücken oder politische Defizite beschreibt:
+
+
+
+Wichtig:
+
+
+
+\- Übergangsmaßnahmen dürfen nicht mit einer langfristigen Lösung verwechselt werden.
+
+\- Kontrollen, strengere Regeln oder bessere Umsetzung können Schäden begrenzen, lösen aber strukturelle Probleme nicht automatisch.
+
+\- Kurzfristige Schutzmaßnahmen dürfen nicht als politische Endlösung dargestellt werden.
+
+\- Symptome und Ursachen unterscheiden.
+
+\- Prüfe, ob die Partei das zugrundeliegende System grundsätzlich kritisiert.
+
+
+
+Vermeiden:
+
+
+
+\- "bessere Kontrollen lösen das Problem"
+
+\- "strengere Umsetzung reicht aus"
+
+\- "modernisierte Regulierung"
+
+\- "optimierte Verwaltung"
+
+
+
+Frage:
+
+
+
+Handelt es sich um ein Verwaltungsproblem
+
+oder um ein grundsätzliches Strukturproblem?
+
+
+
+
+
+
+
+
+
 🔹 Bildung \& Kultur
 
 
