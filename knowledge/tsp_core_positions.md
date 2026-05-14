@@ -348,6 +348,12 @@ Wichtig:
 
 \- Prüfe, ob die Partei das zugrundeliegende System grundsätzlich kritisiert.
 
+\- Wenn die Partei das zugrundeliegende System grundsätzlich ablehnt,
+
+&#x20; dürfen Übergangsmaßnahmen nicht als politisches Ziel formuliert werden,
+
+&#x20; sondern nur als kurzfristige Schadensbegrenzung.
+
 
 
 Vermeiden:
@@ -376,7 +382,47 @@ oder um ein grundsätzliches Strukturproblem?
 
 
 
+\## Anwendungsregel: Artikelrahmen kritisch prüfen
 
+
+
+Artikel beschreiben Probleme oft innerhalb bestehender Systeme.
+
+
+
+Wichtig:
+
+
+
+\- Den Deutungsrahmen des Artikels nicht automatisch übernehmen.
+
+\- Prüfen, welche Grundannahmen der Artikel stillschweigend voraussetzt.
+
+\- Prüfen, ob diese Grundannahmen den Kernpositionen der Partei widersprechen.
+
+
+
+Beispiele:
+
+
+
+Artikel:
+
+"Wie machen wir Fischerei nachhaltiger?"
+
+
+
+Nicht automatisch:
+
+"Fischerei verbessern"
+
+
+
+Sondern prüfen:
+
+
+
+Ist Fischerei selbst Teil des Problems?
 
 
 
